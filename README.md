@@ -1,4 +1,4 @@
-# foodBuddie
+# Food Buddie
 
 Design project for the [Human-Computer Interaction: Principles and Design](https://www.kth.se/student/kurser/kurs/IC1007?l=en) course at [Kungliga Tekniska Högskolan](https://www.kth.se/en) in Stockholm, Sweden. 
 
